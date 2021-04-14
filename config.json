@@ -1,0 +1,42 @@
+{
+  "mongo_url": "mongodb+srv://kah:iAcbJGdkwbZuHcjI@cluster0.omqus.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "server": {
+    "id": "831871412372897822",
+    "invite": "https://discord.gg/nkGmx7Q3",
+    "mod_log_id": "831872950893281291",
+    "like_log": "831872952257347656",
+    "admin_user_ids": ["733418202704642078", "609156992077922306", "571067965261217793", "697245896588656801"],
+    "role_ids": {
+      "bot": "831872858611384320",
+      "unverified": "801147047235158080",
+      "verified": "831872858611384320",
+
+      "bot_developer": "831872861580165122",
+      "bot_verifier": "831872855259217970"
+    }
+  },
+  "bot_options": {
+    "bot_vips": ["778430745529286656"],
+    "bot_tags": ["Moderação", "Diversão", "Economia", "Utilidades", "Música", "Anime", "Games", "Memes", "Minecraft", "Fortnite", "Brawl Stars", "Social", "Outros"],
+    "max_bot_tags": 10,
+    "max_owners_count": 4,
+    "max_summary_length": 120,
+    "min_description_length": 200,
+    "max_description_length": 5000
+  },
+  "discord_client": {
+    "id": "809961906793611274",
+    "secret": "97x0CCnIU0yvW0Sb2Up4D4J_iDo1Gtbv",
+    "token": "ODA5OTYxOTA2NzkzNjExMjc0.YCctzg.P7-wXwr6sCpMwpMj21O3qflyoZI",
+    "prefix": "s!"
+  },
+  "web": {
+    "domain_with_protocol": "https://www.sneeklist.glitch.me",
+    "port": 2000,
+    "ratelimit": 30,
+     "recaptcha_v2": {
+      "site_key": "6LeN3jMaAAAAAOqDph6SuxMEleTBPG4EGqUcQtm_",
+      "secret_key": "6LeN3jMaAAAAAADYTvCQqe6m71xcZlJT-bWfmu5L"
+    }
+  }
+}
